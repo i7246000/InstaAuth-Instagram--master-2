@@ -1,0 +1,205 @@
+
+2017-03-01 10:40:42.413607 InstaAuth[47195:3811336] [MobileAssetError:29] Unable to copy asset information from https://mesu.apple.com/assets/ for asset type com.apple.MobileAsset.TextInput.SpellChecker
+user = Optional(InstaAuth.InstagramUser(token: "4707642259.7ae7ef4.e044399661ce469185d2b53c52405ae0", uid: "4707642259", bio: "Fashion inspiration 👗👖👓💍👜👠", followed_by: "12", follows: "0", media: "86", username: "suzz_fashion", image: "https://scontent.cdninstagram.com/t51.2885-19/s150x150/16788852_1878777999057996_6311833828818157568_a.jpg"))
+{
+    data =     (
+                {
+                attribution = "<null>";
+                caption =             {
+                "created_time" = 1487942272;
+                from =                 {
+                "full_name" = "Suzz Fashion";
+                id = 4707642259;
+                "profile_picture" = "https://scontent.cdninstagram.com/t51.2885-19/s150x150/16788852_1878777999057996_6311833828818157568_a.jpg";
+                username = "suzz_fashion";
+                };
+                id = 17860553869088542;
+                text = "#girly #fashion #white #top #tops";
+                };
+                comments =             {
+                count = 1;
+                };
+                "created_time" = 1487942272;
+                filter = Normal;
+                id = "1457287863535442872_4707642259";
+                images =             {
+                "low_resolution" =                 {
+                height = 320;
+                url = "https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/16908593_1800687513585562_3054872996259823616_n.jpg";
+                width = 320;
+                };
+                "standard_resolution" =                 {
+                height = 480;
+                url = "https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/16908593_1800687513585562_3054872996259823616_n.jpg";
+                width = 480;
+                };
+                thumbnail =                 {
+                height = 150;
+                url = "https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/16908593_1800687513585562_3054872996259823616_n.jpg";
+                width = 150;
+                };
+                };
+                likes =             {
+                count = 5;
+                };
+                link = "https://www.instagram.com/p/BQ5U5dBhJu4/";
+                location = "<null>";
+                tags =             (
+                                    girly,
+                                    top,
+                                    white,
+                                    fashion,
+                                    tops
+                                    );
+                type = image;
+                user =             {
+                "full_name" = "Suzz Fashion";
+                id = 4707642259;
+                "profile_picture" = "https://scontent.cdninstagram.com/t51.2885-19/s150x150/16788852_1878777999057996_6311833828818157568_a.jpg";
+                username = "suzz_fashion";
+                };
+                "user_has_liked" = 0;
+                "users_in_photo" =             (
+                );
+                }
+                );
+    meta =     {
+        code = 200;
+    };
+    pagination =     {
+        "deprecation_warning" = "next_max_id and min_id are deprecated for this endpoint; use min_tag_id and max_tag_id instead";
+        "min_tag_id" = "AQCCY1B11q9xKviTvFYO5JOwIHf4EIfoEiaHauVN5fNIrlIRVO_u4jo-np45Nd8LrGHOC8TwwYZ4NJQUR94NCBGmns7wV7rZnduYJlDANeUbwg";
+        "next_min_id" = "AQCCY1B11q9xKviTvFYO5JOwIHf4EIfoEiaHauVN5fNIrlIRVO_u4jo-np45Nd8LrGHOC8TwwYZ4NJQUR94NCBGmns7wV7rZnduYJlDANeUbwg";
+    };
+}
+
+
+
+data =     (
+            {
+            attribution = "<null>";
+            caption =             {
+            "created_time" = 1487942354;
+            from =                 {
+            "full_name" = "Suzz Fashion";
+            id = 4707642259;
+            "profile_picture" = "https://scontent.cdninstagram.com/t51.2885-19/s150x150/16788852_1878777999057996_6311833828818157568_a.jpg";
+            username = "suzz_fashion";
+            };
+            id = 17851957207141563;
+            text = "#glamorous #fashion #gold #dress #nightout #occasion";
+            };
+            comments =             {
+            count = 0;
+            };
+            "created_time" = 1487942354;
+            filter = Normal;
+            id = "1457288553574088344_4707642259";
+            images =             {
+            "low_resolution" =                 {
+            height = 316;
+            url = "https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/16788409_1252058771543739_8251942595907813376_n.jpg";
+            width = 320;
+            };
+            "standard_resolution" =                 {
+            height = 474;
+            url = "https://scontent.cdninstagram.com/t51.2885-15/e35/16788409_1252058771543739_8251942595907813376_n.jpg";
+            width = 480;
+            };
+            thumbnail =                 {
+            height = 150;
+            url = "https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/c3.0.474.474/16788409_1252058771543739_8251942595907813376_n.jpg";
+            width = 150;
+            };
+            };
+            likes =             {
+            count = 5;
+            };
+            link = "https://www.instagram.com/p/BQ5VDfrBr6Y/";
+            location = "<null>";
+            tags =             (
+                                glamorous,
+                                dress,
+                                occasion,
+                                nightout,
+                                fashion,
+                                gold
+                                );
+            type = image;
+            user =             {
+            "full_name" = "Suzz Fashion";
+            id = 4707642259;
+            "profile_picture" = "https://scontent.cdninstagram.com/t51.2885-19/s150x150/16788852_1878777999057996_6311833828818157568_a.jpg";
+            username = "suzz_fashion";
+            };
+            "user_has_liked" = 0;
+            "users_in_photo" =             (
+            );
+            },
+            {
+            attribution = "<null>";
+            caption =             {
+            "created_time" = 1487942008;
+            from =                 {
+            "full_name" = "Suzz Fashion";
+            id = 4707642259;
+            "profile_picture" = "https://scontent.cdninstagram.com/t51.2885-19/s150x150/16788852_1878777999057996_6311833828818157568_a.jpg";
+            username = "suzz_fashion";
+            };
+            id = 17864278924101745;
+            text = "#exotic #fashion #dress #footwear";
+            };
+            comments =             {
+            count = 0;
+            };
+            "created_time" = 1487942008;
+            filter = Normal;
+            id = "1457285644203570074_4707642259";
+            images =             {
+            "low_resolution" =                 {
+            height = 320;
+            url = "https://scontent.cdninstagram.com/t51.2885-15/s320x320/e35/13687210_715101098671284_2644016433314398208_n.jpg";
+            width = 320;
+            };
+            "standard_resolution" =                 {
+            height = 480;
+            url = "https://scontent.cdninstagram.com/t51.2885-15/s480x480/e35/13687210_715101098671284_2644016433314398208_n.jpg";
+            width = 480;
+            };
+            thumbnail =                 {
+            height = 150;
+            url = "https://scontent.cdninstagram.com/t51.2885-15/s150x150/e35/13687210_715101098671284_2644016433314398208_n.jpg";
+            width = 150;
+            };
+            };
+            likes =             {
+            count = 0;
+            };
+            link = "https://www.instagram.com/p/BQ5UZKHB7Oa/";
+            location = "<null>";
+            tags =             (
+                                dress,
+                                exotic,
+                                footwear,
+                                fashion
+                                );
+            type = image;
+            user =             {
+            "full_name" = "Suzz Fashion";
+            id = 4707642259;
+            "profile_picture" = "https://scontent.cdninstagram.com/t51.2885-19/s150x150/16788852_1878777999057996_6311833828818157568_a.jpg";
+            username = "suzz_fashion";
+            };
+            "user_has_liked" = 0;
+            "users_in_photo" =             (
+            );
+            }
+            );
+meta =     {
+    code = 200;
+};
+pagination =     {
+    "deprecation_warning" = "next_max_id and min_id are deprecated for this endpoint; use min_tag_id and max_tag_id instead";
+    "min_tag_id" = "AQC0KhrP-0gufzUwKkPofIaR5BhwNAkFppYFRp70XDDIEIZ8paMeQKqRmeE_C6ncipKHENe7nA2dNWFoQusgOvLeu8SNz9k06Oxnm1d94IFXjg";
+    "next_min_id" = "AQC0KhrP-0gufzUwKkPofIaR5BhwNAkFppYFRp70XDDIEIZ8paMeQKqRmeE_C6ncipKHENe7nA2dNWFoQusgOvLeu8SNz9k06Oxnm1d94IFXjg";
+};
